@@ -1,2 +1,2 @@
 # burger_menu
- A simple html burger menu
+ A simple responsive html burger menu
